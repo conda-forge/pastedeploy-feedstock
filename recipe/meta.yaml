@@ -32,7 +32,7 @@ about:
   home: https://pylonsproject.org/
   license: MIT
   license_family: MIT
-  license_file: 'docs/license.txt'
+  license_file: license.txt
   summary: Load, configure, and compose WSGI applications and servers
   doc_url: https://docs.pylonsproject.org/projects/pastedeploy/
   dev_url: https://github.com/Pylons/pastedeploy
