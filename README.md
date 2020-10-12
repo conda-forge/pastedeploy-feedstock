@@ -5,11 +5,13 @@ Home: https://pylonsproject.org/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pastedeploy-feedstock/blob/master/LICENSE.txt)
 
 Summary: Load, configure, and compose WSGI applications and servers
 
+Development: https://github.com/Pylons/pastedeploy
 
+Documentation: https://docs.pylonsproject.org/projects/pastedeploy/
 
 Current build status
 ====================
