@@ -1,5 +1,5 @@
 {% set name = "PasteDeploy" %}
-{% set version = "2.1.1" %}
+{% set version = "3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 6dead6ab9823a85d585ef27f878bc647f787edb9ca8da0716aa9f1261b464817
+  sha256: 6eae9ab573d4619155593157f3bf3b36d1e1873cd8d465a58174ce81bf6faf66
 
 build:
   noarch: python
